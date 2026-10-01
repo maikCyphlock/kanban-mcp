@@ -1,4 +1,5 @@
 # kanban-mcp
+\n**Producción:** https://kanban-mcp-tau.vercel.app · **Conectar Claude Code:** https://kanban-mcp-tau.vercel.app/install
 
 Kanban para agentes y humanos. MCP (Streamable HTTP) en `/api/mcp` para agentes, web en `/` para humanos. Next.js + SQLite (libSQL/Turso), listo para Vercel.
 
